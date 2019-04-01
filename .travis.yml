@@ -1,3 +1,3 @@
 language: java
 jdk: oraclejdk9
-script: - HelloTestMRI.java
+script: - src/HelloTestMRI.java
